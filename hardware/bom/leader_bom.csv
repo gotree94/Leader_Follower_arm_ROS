@@ -1,0 +1,19 @@
+Category,Part,Specification,Qty,Unit Price ($),Total ($),Notes
+Actuator,AX-12A Dynamixel,ROBOTIS AX-12A (12V 1.5Nm),6,25.00,150.00,6축 Leader arm
+Controller,STM32F103C8T6,Blue Pill Board (Cortex-M3 72MHz),1,3.00,3.00,메인 제어기
+Communication,USB-to-TTL,CP2102 Module,1,2.00,2.00,ROS 직렬 통신
+Communication,74HC126,Quad Buffer IC (Half-Duplex),1,1.00,1.00,Dynamixel 방향 제어
+Power,SMPS 12V 5A,12V DC Adapter 5A,1,10.00,10.00,AX-12A 구동 전원
+Power,LM2596,DC-DC Step-Down 12V→5V,1,3.00,3.00,USB-to-TTL 전원
+Power,AMS1117-3.3,3.3V Regulator,1,1.00,1.00,STM32 전원
+Safety,E-Stop Switch,Push Button Type (NC),1,3.00,3.00,비상정지
+Safety,Relay Module,12V 1-Channel Relay,1,2.00,2.00,E-Stop 릴레이
+Passive,Resistor Kit,0805 SMD Various Values,1,1.00,1.00,회로 구성
+Passive,Capacitor Kit,0805 SMD Various Values,1,1.00,1.00,회로 구성
+Mechanical,Aluminum Frame,6061-T6 5mm Sheet (Custom CNC),1,50.00,50.00,링크 구조
+Mechanical,3D Printed Parts,PETG Brackets & Mounts (Set),1,20.00,20.00,관절 브라켓
+Mechanical,Bolts/Nuts/Washers,M2.5 M3 Mix Kit,1,5.00,5.00,체결용
+Connector,JST B3B-PH,3-Pin Connector (Male+Female),6,3.00,18.00,AX-12A Daisy Chain
+Cable,Silicone Wire,22AWG Various Colors (2m),1,5.00,5.00,배선
+Debugging,ST-Link V2,SWD Programmer/Debugger,1,3.00,3.00,STM32 디버깅
+,,,"Total (Leader)",,,137.00

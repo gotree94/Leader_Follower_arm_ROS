@@ -1,0 +1,14 @@
+/leader_arm_controller:
+  ros__parameters:
+    serial_port: "/dev/ttyUSB0"
+    baud_rate: 1000000
+    publish_rate: 100.0
+    joint_names:
+      - "joint_1_waist"
+      - "joint_2_shoulder"
+      - "joint_3_elbow"
+      - "joint_4_wrist_roll"
+      - "joint_5_wrist_pitch"
+      - "joint_6_wrist_yaw"
+    joint_ids: [1, 2, 3, 4, 5, 6]
+    dynamixel_protocol: "1.0"

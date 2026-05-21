@@ -1,0 +1,5 @@
+uint8 joint_id                 # 0: ALL, 1~6: 특정 조인트
+---
+bool success
+float64[6] offsets             # 조인트 오프셋 각도 (radians)
+string message

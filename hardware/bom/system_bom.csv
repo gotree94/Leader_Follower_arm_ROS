@@ -1,0 +1,7 @@
+Category,Part,Specification,Qty,Unit Price ($),Total ($),Notes
+Computing,ROS PC,Intel NUC / Mini PC (Ubuntu 22.04),1,300.00,300.00,ROS Master
+Computing,Jetson Orin Nano,Developer Kit 8GB,1,250.00,250.00,AI Inference
+Accessory,USB Hub,USB 2.0 4-Port,1,5.00,5.00,USB 확장
+Accessory,USB Cable,USB-A to Micro-B (1m),2,3.00,6.00,STM32 연결
+Accessory,Network Cable,CAT6 Ethernet (2m),1,5.00,5.00,ROS PC ↔ Jetson
+,,,"Total (System)",,,566.00

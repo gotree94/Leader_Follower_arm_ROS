@@ -1,0 +1,7 @@
+string filename                # 저장 파일명 (선택)
+float32 duration               # 녹화 시간 (초, 0=무제한)
+---
+bool success
+string filepath                # 저장 경로
+uint32 sample_count            # 녹화된 샘플 수
+string message
