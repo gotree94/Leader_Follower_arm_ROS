@@ -8,6 +8,8 @@
 ![Isaac Sim](https://img.shields.io/badge/Sim-Isaac%20Sim-brightgreen)
 ![Jetson](https://img.shields.io/badge/Edge-Jetson%20Orin%20Nano-orange)
 
+https://www.feetechrc.com/software.html
+
 ---
 
 ## 프로젝트 개요
