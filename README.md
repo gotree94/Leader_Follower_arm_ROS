@@ -10,6 +10,9 @@
 
 * https://www.feetechrc.com/software.html
 * https://github.com/isaac-sim/Sim-to-Real-SO-101-Workshop
+* https://developer.espressif.com/blog/2026/01/esp32p4-robotic-arm-design/
+* https://maegantucker.com/ECE4560/syllabus/
+* https://github.com/TheRobotStudio/SO-ARM100
 
 ---
 
