@@ -9,6 +9,7 @@
 ![Jetson](https://img.shields.io/badge/Edge-Jetson%20Orin%20Nano-orange)
 
 https://www.feetechrc.com/software.html
+https://github.com/isaac-sim/Sim-to-Real-SO-101-Workshop
 
 ---
 
